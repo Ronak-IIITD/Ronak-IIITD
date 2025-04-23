@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack
 
 - 💻 Languages: C++, Python, C *(learning more soon!)*
-- 📊 AI/ML: NumPy, Pandas, scikit-learn *(learning...)*
+- 📊 AI/ML: NumPy, Pandas, scikit-learn, NLP basics *(learning...)*
 - 🛠️ Tools: VS Code, Git, GitHub Copilot
 
 ---
