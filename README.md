@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ronak Anand
 
-🎓 B.Tech CSAI @ IIIT-Delhi (1st year)  
+🎓 B.Tech CSAI @ IIIT-Delhi (2st year)  
 💻 Passionate about building real-world tech using C++, Python & AI  
 🚀 Currently working on: Programming Logic & Problem Solving  
 🌱 Learning: Basic Web Dev + DSA + AI/ML  
