@@ -6,8 +6,6 @@
 🌱 Learning: Basic Web Dev + DSA + AI/ML  
 🤝 Open to hackathons, collabs & learning with folks!
 
-🔥 Staying Average is not Acceptable !
-
 ---
 
 ## 🔧 Tech Stack
