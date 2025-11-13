@@ -1,28 +1,77 @@
-# 👋 Hey, I'm Ronak Anand
+👋 Hey there, I'm Ronak Anand
 
-🎓 B.Tech CSAI @ IIIT-Delhi (2nd year)  
-💻 Passionate about building real-world tech using C++, Python & AI  
-🚀 Currently working on: Programming Logic & Problem Solving  
-🌱 Learning: Basic Web Dev + DSA + AI/ML  
-🤝 Open to hackathons, collabs & learning with folks!
+B.Tech CSAI @ IIIT-Delhi (2nd Year)
+Focused on building practical, scalable software using C++, Python, Java, and AI.
 
----
+🚀 What I'm Working On
 
-## 🔧 Tech Stack
+Strengthening Programming Logic & Problem Solving
 
-- 💻 Languages: C++, Python, C *(learning more soon!)*
-- 📊 AI/ML: NumPy, Pandas, scikit-learn, NLP basics *(learning...)*
-- 🛠️ Tools: VS Code, Git, GitHub Copilot
+Building foundations in Web Development (Frontend + Backend)
 
----
+Diving into Java Full Stack development
 
-## 📫 Connect With Me
+Scaling skills in DSA, AI/ML, and software engineering fundamentals
 
-- ✉️ Email: anandronak8826@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/ronakanand  
-- 🌐 Portfolio: *coming soon* 👀
+🌱 Currently Learning
 
----
+Full Stack Web Development (HTML, CSS, JS, React + Backend fundamentals)
 
-> 😄 Pronouns: he/him  
-> ⚡ Fun fact: C still feels like dark magic sometimes 🔮
+Java Full Stack Concepts (Spring Boot, APIs, backend architecture)
+
+System Design (low-level + high-level patterns)
+
+DevOps Essentials (GitHub Actions, CI/CD basics, Docker soon)
+
+🔧 Tech Stack
+💻 Languages
+
+C++, Python, C, Java
+
+🤖 AI & Machine Learning
+
+NumPy
+
+Pandas
+
+scikit-learn
+
+Intro to NLP
+
+🛠️ Tools & Workflow
+
+VS Code
+
+Git & GitHub
+
+GitHub Copilot
+
+Basic Linux workflow
+
+🤝 Collaborate With Me
+
+I’m open to working on:
+
+Hackathons
+
+AI + ML projects
+
+Full Stack apps
+
+Open-source contributions
+
+🌐 Connect With Me
+
+Email: anandronak8826@gmail.com
+
+LinkedIn: www.linkedin.com/in/ronakanand
+
+Portfolio: coming soon 👀
+
+😄 Pronouns
+
+he/him
+
+⚡ Fun Fact
+
+Still convinced C is fueled by mysterious ancient powers 🔮
