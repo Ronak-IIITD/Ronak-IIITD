@@ -1,9 +1,9 @@
-👋 Hey there, I'm Ronak Anand
+**👋 Hey there, I'm Ronak Anand**
 
 B.Tech CSAI @ IIIT-Delhi (2nd Year)
 Focused on building practical, scalable software using C++, Python, Java, and AI.
 
-🚀 What I'm Working On
+##🚀 What I'm Working On
 
 Strengthening Programming Logic & Problem Solving
 
