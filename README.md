@@ -56,7 +56,7 @@
 ## 📫 Connect With Me
 - ✉️ **Email:** anandronak8826@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/ronakanand  
-- 🌐 **Portfolio:** coming soon 👀  
+- 🌐 **Portfolio:** https://ronak-ten.vercel.app/
 
 ---
 
