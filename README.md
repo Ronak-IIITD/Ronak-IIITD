@@ -110,8 +110,10 @@ Machine learning model for detecting and classifying hate speech in social media
 
 ## 🌱 Currently Learning
 
+<div align="center">
+
 ```javascript
-const ronak = {
+const currentLearning = {
     frontend: ["HTML", "CSS", "JavaScript", "React"],
     backend: ["Java Spring Boot", "REST APIs", "Microservices"],
     ai_ml: ["NumPy", "Pandas", "scikit-learn", "NLP"],
@@ -120,6 +122,8 @@ const ronak = {
     focus: "Building scalable, production-grade applications"
 };
 ```
+
+</div>
 
 ---
 
