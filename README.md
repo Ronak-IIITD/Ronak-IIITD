@@ -36,7 +36,7 @@ An AI-powered study companion that turns documents into interactive learning: do
 A privacy-first browser extension designed to help people filter low-quality feed content and AI-style articles, with a focus on local processing and user control.
 
 ### [JevGate](https://github.com/Ronak-IIITD/JevGate)
-An experimental decision-security gateway for inspecting untrusted AI-agent inputs and proposed tool calls, with explicit policy checks and redacted audit records. It's a prototype—not a production security boundary.
+An experimental decision-security gateway for inspecting untrusted AI-agent inputs and proposed tool calls, with explicit policy checks and redacted audit records. It's a prototype not a production security boundary.
 
 ### [Delhi Metro Route Finder](https://github.com/Ronak-IIITD/delhi_metro-Route-Finder)
 A Python/Flask route planner exploring graph algorithms through a practical problem: finding routes by distance or line changes, with fare and travel-time estimates.
@@ -50,7 +50,7 @@ A Python/Flask route planner exploring graph algorithms through a practical prob
 **Web & backend:** Flask · FastAPI · React · Next.js  
 **Workflow:** Git · GitHub · Linux · VS Code
 
-I'm continuing to deepen my foundations in **DSA, machine learning, Java backend development, and systems internals**. The goal isn't to collect tools—it's to understand when and why to use them.
+I'm continuing to deepen my foundations in **DSA, machine learning, Java backend development, and systems internals**. The goal isn't to collect tools it's to understand when and why to use them.
 
 ## How I like to build
 
