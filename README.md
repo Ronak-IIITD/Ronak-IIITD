@@ -68,7 +68,7 @@ I'm continuing to deepen my foundations in **DSA, machine learning, Java backend
 
 ## Outside the terminal
 
-You'll probably find me on a basketball court 🏀, playing football ⚽, tuning a keyboard ⌨️ and other PC peripherals, making coffee ☕, or watching anime and sports.
+You'll probably find me on a basketball court 🏀, playing football ⚽, tuning a keyboard ⌨️ and other PC peripherals, making coffee ☕ and general cooking, or watching anime and sports.
 
 ---
 
