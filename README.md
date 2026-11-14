@@ -62,8 +62,8 @@ I'm continuing to deepen my foundations in **DSA, machine learning, Java backend
 ## GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronak-IIITD&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-IIITD&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across repositories" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most-used languages across repositories" />
 </div>
 
 ## Outside the terminal
