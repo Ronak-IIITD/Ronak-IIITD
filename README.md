@@ -19,10 +19,10 @@ I'm a Computer Science and Artificial Intelligence undergraduate at IIIT Delhi, 
 
 I enjoy exploring an idea from multiple angles: the user problem, the algorithms underneath, the architecture, and the failure cases. Lately, a lot of my curiosity has been around AI-powered learning tools, developer workflows, and making AI systems more transparent and reliable.
 
-- 🧠 **Applied AI:** machine learning, RAG, learning tools, and transformer tooling
-- 🛠️ **Developer tools:** useful CLIs, automation, and workflows that make development easier to reason about
-- 🌐 **Product engineering:** taking ideas from interface to backend
-- 📚 **CS foundations:** DSA, graph algorithms, databases, and systems concepts
+- **Applied AI:** machine learning, RAG, learning tools, and transformer tooling
+- **Developer tools:** useful CLIs, automation, and workflows that make development easier to reason about
+- **Product engineering:** taking ideas from interface to backend
+- **CS foundations:** DSA, graph algorithms, databases, and systems concepts
 
 ## Featured projects
 
